@@ -119,7 +119,7 @@ h2 {
   
   padding-bottom: 0%;
 
-  background-image: url("Flower asset/Flower 01.png");
+  
   
   background-repeat: no-repeat;
   background-position: bottom;
@@ -130,7 +130,7 @@ h2 {
   
   padding-bottom: 0%;
 
-  background-image: url("Flower asset/Rectangle 4.png");
+ 
   
   background-repeat: no-repeat;
   background-position: bottom;
@@ -141,7 +141,7 @@ h2 {
   
   padding-bottom: 0%;
 
-  background-image: url("Flower asset/Rectangle 5.png");
+ 
   
   background-repeat: no-repeat;
   background-position: bottom;
@@ -152,8 +152,6 @@ h2 {
   
   padding-bottom: 0%;
 
-  background-image: url("Flower asset/Rectangle 6.png");
-  
   background-repeat: no-repeat;
   background-position: bottom;
 }
@@ -239,4 +237,17 @@ footer {
  
   text-align: center;
   padding-bottom: 0%;
+}
+.follower {
+  width: 33.33%;
+  padding-left: 10%;
+  text-align: left;
+}
+.fourth-section {
+  display: flex;
+  margin: 10% 10%;
+  padding: 1% 1% 1% 1%;
+  text-align: center;
+  background-color: rgb(226, 197, 243);
+  border-radius: 3%;
 }
