@@ -56,6 +56,13 @@ background: rgba(229, 84, 115, 0.1);
   margin-top: 20px;
 }
 .flower-image {
+  width: 400px;
+  height: 490px;
+  margin-bottom: 0%;
+  
+}
+
+.flower-image {
   width: 200px;
   height: 290px;
   margin-top: 20px;
@@ -90,18 +97,7 @@ h2 {
   padding-left: 20%;
   padding-right: 20%;
 }
-.demo-flower {
-  width: 33.33%;
-  margin: 5% 1%;
-  
-  padding-bottom: 0%;
-  border-top-left-radius:500px;
-  border-top-right-radius:500px;
-  background-image: url("Flower asset/pngwing 6.png");
-  background-color: rgb(226, 183, 216);
-  background-repeat: no-repeat;
-  background-position: bottom;
-}
+
 .inst-flower{
   
  
@@ -158,16 +154,23 @@ h2 {
 .instr-border{
   margin:0%;
 }
+.demo-flower {
+  width: 33.33%;
+  margin: 5% 1%;
+  padding-bottom: 0%;
+  border-top-left-radius:500px;
+  border-top-right-radius:500px;  
+  background-color: rgb(226, 183, 216);
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
 .demo-flower1 {
   width: 33.33%;
   margin: 5% 1%;
-  
   padding-bottom: 0%;
   border-top-left-radius:500px;
   border-top-right-radius:500px;
   background-color: rgb(178, 230, 242);
-  background-image: url("Flower asset/pngwing 5.png");
- 
   background-repeat: no-repeat;
   background-position: bottom;
 
@@ -175,15 +178,12 @@ h2 {
 .demo-flower2 {
   width: 33.33%;
   margin: 5% 1%;
-  
   padding-bottom: 0%;
   border-top-left-radius:500px;
   border-top-right-radius:500px;
   background-color: rgb(204, 244, 169);
-  background-image: url("Flower asset/pngwing 7.png");
- 
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: center;
 
 
  
